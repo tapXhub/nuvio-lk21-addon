@@ -1,0 +1,8 @@
+{
+  "id": "lk21-provider",
+  "name": "Layarkaca21 Provider",
+  "version": "1.0.0",
+  "filename": "provider.js",
+  "supportedTypes": ["movie"],
+  "enabled": true
+}
